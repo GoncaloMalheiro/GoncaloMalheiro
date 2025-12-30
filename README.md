@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m currently studying at IPCA, taking my degree in Medical Informatics Engineering.
+- 🎓 I have completed my degree in Medical Informatics Engineering at IPCA.
 - 🌍 I'm based in Braga, Portugal.
 - 📫 How to reach me: malheirogoncalo9@gmail.com
 
