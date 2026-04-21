@@ -40,11 +40,12 @@
 
 <br>
 
-<div>
-<a href="https://www.linkedin.com/in/gon%C3%A7alo-malheiro-09024320a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="mailto:goncalopereira12@hotmail.com?subject=Assunto"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
-<a href="mailto:malheirogoncalo9@gmail.com?subject=Assunto"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
-</div>
+<a href="mailto:goncalopereira12@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+<a href="mailto:malheirogoncalo9@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br>
 
