@@ -26,7 +26,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="margin-right: 14px; width: 40px;" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="margin-right: 14px; width: 40px;" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="margin-right: 14px; width: 40px;" alt="Angular"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" style="margin-right: 14px; width: 40px;" alt="Angular"/>
   
 </p>
 
