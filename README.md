@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
- <a href="mailto:malheirogoncalo9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:malheirogoncalo9@gmail.com?subject=Contact%20from%20GitHub">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
