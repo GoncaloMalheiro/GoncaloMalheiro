@@ -55,7 +55,6 @@
 
 <div>
   <a href="https://github.com/GoncaloMalheiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMalheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMalheiro&layout=compact&theme=dark" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMalheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMalheiro&layout=compact&theme=dark" alt=""/>
 </div>
