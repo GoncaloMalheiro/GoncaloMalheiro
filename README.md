@@ -1,66 +1,61 @@
-<summary><b>Hi, I'm Gonçalo Malheiro 👋</b></summary>
+# Hi, I'm Gonçalo Malheiro 👋
 
 <br>
 
-- 🎓 I have completed my degree in Medical Informatics Engineering at IPCA.
-- 🌍 I'm based in Braga, Portugal.
-- 📫 How to reach me: malheirogoncalo9@gmail.com
+- 🎓 Junior Software Developer with a degree in Medical Informatics Engineering from IPCA  
+- 🌍 Based in Braga, Portugal  
+- 💻 Focused on backend development and web applications using C#, .NET, and SQL  
+- 📫 Contact: malheirogoncalo9@gmail.com  
 
 <br>
 
-<hr>
+---
 
-<br>
-
-<summary><b>💻 Technologies</b></summary>
+## 💻 Technologies
 
 <br>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 40px;" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px;" alt="CSS3"/>
 </p>
-
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="margin-right: 14px; width: 40px;" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="margin-right: 14px; width: 40px;" alt=".NET"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" style="margin-right: 14px; width: 40px;" alt="Angular"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="width: 40px;" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="width: 40px;" alt=".NET"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" style="width: 40px;" alt="Angular"/>
 </p>
 
 <br>
 
-<hr>
+---
 
-<br>
-
-<summary><b>🌐 Socials</b></summary>
+## 🌐 Socials
 
 <br>
 
 <div>
   <a href="https://www.linkedin.com/in/gon%C3%A7alo-malheiro-09024320a/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=malheirogoncalo9@gmail.com" target="_blank">
+
+  <a href="mailto:malheirogoncalo9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
 
-<hr>
+---
 
-<br>
-
-<summary><b>My GitHub Stats 📊</b></summary>
+## 📊 GitHub Stats
 
 <br>
 
 <div>
   <a href="https://github.com/GoncaloMalheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMalheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMalheiro&layout=compact&theme=dark" alt=""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMalheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMalheiro&layout=compact&theme=dark" />
+  </a>
 </div>
