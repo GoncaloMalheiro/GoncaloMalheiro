@@ -17,14 +17,10 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 40px;" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="width: 40px;" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px;" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px;" alt="CSS3"/>
-</p>
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="width: 40px;" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="width: 40px;" alt=".NET"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" style="width: 40px;" alt="Angular"/>
 </p>
 
 <br>
@@ -43,18 +39,4 @@
   <a href="mailto:malheirogoncalo9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<br>
-
-<div>
-  <a href="https://github.com/GoncaloMalheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMalheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMalheiro&layout=compact&theme=dark" alt=""/>
 </div>
