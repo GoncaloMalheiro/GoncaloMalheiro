@@ -4,7 +4,7 @@
 
 - 🎓 Junior Software Developer with a degree in Medical Informatics Engineering from IPCA  
 - 🌍 Based in Braga, Portugal  
-- 💻 Focused on backend development and web applications using C#, .NET, and SQL  
+- 💻 Focused on backend development and web applications using C#, .NET, HTML, CSS, and SQL  
 - 📫 Contact: malheirogoncalo9@gmail.com  
 
 <br>
